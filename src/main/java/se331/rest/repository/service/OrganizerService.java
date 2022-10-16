@@ -1,4 +1,4 @@
-package se331.rest.service;
+package se331.rest.repository.service;
 
 import org.springframework.data.domain.Page;
 import se331.rest.entity.Organizer;
